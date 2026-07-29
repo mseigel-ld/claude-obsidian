@@ -5,8 +5,10 @@ message: >-
 type: software
 authors:
   - alias: AgriciDaniel
-repository-code: 'https://github.com/AgriciDaniel/claude-obsidian'
-url: 'https://github.com/AgriciDaniel/claude-obsidian'
+  - alias: mseigel-ld
+    given-names: Matt
+repository-code: 'https://github.com/mseigel-ld/claude-obsidian'
+url: 'https://github.com/mseigel-ld/claude-obsidian'
 license: MIT
 version: 1.9.2
 date-released: '2026-05-28'
